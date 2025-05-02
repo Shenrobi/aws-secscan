@@ -1,0 +1,23 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# VS Code project settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and local test output
+*.log
+
+# PEP 582; used by some package managers like `pipx`
+__pypackages__/
+
+# Environment variable files
+.env
