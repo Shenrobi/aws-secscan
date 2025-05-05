@@ -25,7 +25,7 @@ A lightweight, modular Python tool to scan your AWS environment for common misco
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/aws-security-scanner.git
+git clone https://github.com/shenrobi/aws-security-scanner.git
 cd aws-security-scanner
 ```
 
