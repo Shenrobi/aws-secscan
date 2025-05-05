@@ -25,8 +25,8 @@ A lightweight, modular Python tool to scan your AWS environment for common misco
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/shenrobi/aws-security-scanner.git
-cd aws-security-scanner
+git clone https://github.com/shenrobi/aws-secscan.git
+cd aws-secscan
 ```
 
 ---
@@ -108,7 +108,7 @@ Your IAM user or role should have the following minimal permissions:
 ## 📁 Folder Structure
 
 ```
-aws_sec_scanner/
+aws-secscan/
 ├── main.py
 ├── README.md
 ├── scanners/
